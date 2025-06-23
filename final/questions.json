@@ -1,0 +1,638 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Lisbon"],
+        "answer": "Paris",
+        "category": "Geography"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean",
+        "category": "Geography"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "Japan", "South Korea", "Thailand"],
+        "answer": "Japan",
+        "category": "Geography"
+    },
+    {
+        "question": "Which continent is the Sahara Desert located in?",
+        "options": ["Asia", "Africa", "Australia", "South America"],
+        "answer": "Africa",
+        "category": "Geography"
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+        "answer": "Ottawa",
+        "category": "Geography"
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "options": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
+        "answer": "Vatican City",
+        "category": "Geography"
+    },
+    {
+        "question": "Which river is the longest in the world?",
+        "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+        "answer": "Nile River",
+        "category": "Geography"
+    },
+    {
+        "question": "Which US state has the most coastline?",
+        "options": ["California", "Hawaii", "Florida", "Alaska"],
+        "answer": "Alaska",
+        "category": "Geography"
+    },
+    {
+        "question": "Which mountain is the tallest in the world?",
+        "options": ["Mount Kilimanjaro", "Mount Everest", "K2", "Denali"],
+        "answer": "Mount Everest",
+        "category": "Geography"
+    },
+    {
+        "question": "Which country has the most natural lakes?",
+        "options": ["USA", "Russia", "Canada", "China"],
+        "answer": "Canada",
+        "category": "Geography"
+    },
+    {
+        "question": "What is the capital of Brazil?",
+        "options": ["Rio de Janeiro", "Brasilia", "São Paulo", "Salvador"],
+        "answer": "Brasilia",
+        "category": "Geography"
+    },
+    {
+        "question": "Which desert is the largest in the world?",
+        "options": ["Gobi", "Sahara", "Antarctic", "Kalahari"],
+        "answer": "Antarctic",
+        "category": "Geography"
+    },
+    {
+        "question": "Which country has the highest population?",
+        "options": ["India", "USA", "China", "Indonesia"],
+        "answer": "China",
+        "category": "Geography"
+    },
+    {
+        "question": "Which city is known as the Big Apple?",
+        "options": ["Los Angeles", "Chicago", "New York", "San Francisco"],
+        "answer": "New York",
+        "category": "Geography"
+    },
+    {
+        "question": "Which continent has the most countries?",
+        "options": ["Africa", "Asia", "Europe", "South America"],
+        "answer": "Africa",
+        "category": "Geography"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "answer": "Canberra",
+        "category": "Geography"
+    },
+    {
+        "question": "Which sea separates Europe and Africa?",
+        "options": ["Baltic Sea", "Mediterranean Sea", "Caspian Sea", "Black Sea"],
+        "answer": "Mediterranean Sea",
+        "category": "Geography"
+    },
+    {
+        "question": "Which country has the longest coastline in the world?",
+        "options": ["USA", "Russia", "Canada", "Australia"],
+        "answer": "Canada",
+        "category": "Geography"
+    },
+    {
+        "question": "What is the capital of South Africa?",
+        "options": ["Cape Town", "Johannesburg", "Pretoria", "Durban"],
+        "answer": "Pretoria",
+        "category": "Geography"
+    },
+    {
+        "question": "Which U.S. state is the largest by area?",
+        "options": ["Texas", "California", "Alaska", "Montana"],
+        "answer": "Alaska",
+        "category": "Geography"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "answer": "Mars",
+        "category": "Science"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "Pb", "Fe"],
+        "answer": "Au",
+        "category": "Science"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "options": ["90°C", "100°C", "110°C", "120°C"],
+        "answer": "100°C",
+        "category": "Science"
+    },
+    {
+        "question": "What is the smallest unit of life?",
+        "options": ["Molecule", "Atom", "Cell", "Tissue"],
+        "answer": "Cell",
+        "category": "Science"
+    },
+    {
+        "question": "Which gas do plants primarily absorb during photosynthesis?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+        "answer": "Carbon Dioxide",
+        "category": "Science"
+    },
+    {
+        "question": "Who discovered gravity?",
+        "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+        "answer": "Isaac Newton",
+        "category": "Science"
+    },
+    {
+        "question": "What is the main gas found in Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Nitrogen",
+        "category": "Science"
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["Osmium", "Oxygen", "Oganesson", "Oxium"],
+        "answer": "Oxygen",
+        "category": "Science"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi apparatus"],
+        "answer": "Mitochondria",
+        "category": "Science"
+    },
+    {
+        "question": "What part of the brain controls balance and coordination?",
+        "options": ["Cerebrum", "Brainstem", "Cerebellum", "Hippocampus"],
+        "answer": "Cerebellum",
+        "category": "Science"
+    },
+    {
+        "question": "Which metal is liquid at room temperature?",
+        "options": ["Mercury", "Lead", "Silver", "Iron"],
+        "answer": "Mercury",
+        "category": "Science"
+    },
+    {
+        "question": "What is the most abundant element in the universe?",
+        "options": ["Oxygen", "Helium", "Hydrogen", "Carbon"],
+        "answer": "Hydrogen",
+        "category": "Science"
+    },
+    {
+        "question": "What is the process by which plants make their own food?",
+        "options": ["Respiration", "Photosynthesis", "Fermentation", "Digestion"],
+        "answer": "Photosynthesis",
+        "category": "Science"
+    },
+    {
+        "question": "What type of blood cells help fight infection?",
+        "options": ["Red blood cells", "Platelets", "White blood cells", "Plasma"],
+        "answer": "White blood cells",
+        "category": "Science"
+    },
+    {
+        "question": "Which scientist developed the theory of relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Marie Curie", "Stephen Hawking"],
+        "answer": "Albert Einstein",
+        "category": "Science"
+    },
+    {
+        "question": "What organ in the human body is responsible for pumping blood?",
+        "options": ["Liver", "Lungs", "Brain", "Heart"],
+        "answer": "Heart",
+        "category": "Science"
+    },
+    {
+        "question": "What is the chemical formula for table salt?",
+        "options": ["NaCl", "KCl", "H2O", "CO2"],
+        "answer": "NaCl",
+        "category": "Science"
+    },
+    {
+        "question": "What do bees collect and use to make honey?",
+        "options": ["Pollen", "Nectar", "Sap", "Dew"],
+        "answer": "Nectar",
+        "category": "Science"
+    },
+    {
+        "question": "Which part of the human body contains the most bones?",
+        "options": ["Legs", "Arms", "Feet", "Hands"],
+        "answer": "Hands",
+        "category": "Science"
+    },
+    {
+        "question": "Which gas is responsible for making balloons float?",
+        "options": ["Oxygen", "Carbon Dioxide", "Helium", "Nitrogen"],
+        "answer": "Helium",
+        "category": "Science"
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": ["Harper Lee", "J.K. Rowling", "Ernest Hemingway", "Mark Twain"],
+        "answer": "Harper Lee",
+        "category": "Literature"
+    },
+    {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "options": ["Emily Brontë", "Jane Austen", "Charles Dickens", "F. Scott Fitzgerald"],
+        "answer": "Jane Austen",
+        "category": "Literature"
+    },
+    {
+        "question": "Which Shakespeare play features the character Hamlet?",
+        "options": ["Macbeth", "Othello", "Hamlet", "King Lear"],
+        "answer": "Hamlet",
+        "category": "Literature"
+    },
+    {
+        "question": "Who wrote '1984'?",
+        "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "J.R.R. Tolkien"],
+        "answer": "George Orwell",
+        "category": "Literature"
+    },
+    {
+        "question": "What is the longest novel ever written?",
+        "options": ["War and Peace", "Les Misérables", "The Blah Story", "Infinite Jest"],
+        "answer": "The Blah Story",
+        "category": "Literature"
+    },
+    {
+        "question": "Who wrote 'Moby-Dick'?",
+        "options": ["Herman Melville", "Jules Verne", "Mark Twain", "Ernest Hemingway"],
+        "answer": "Herman Melville",
+        "category": "Literature"
+    },
+    {
+        "question": "Who wrote 'The Great Gatsby'?",
+        "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "J.D. Salinger", "William Faulkner"],
+        "answer": "F. Scott Fitzgerald",
+        "category": "Literature"
+    },
+    {
+        "question": "Which novel features the character Jay Gatsby?",
+        "options": ["The Catcher in the Rye", "The Great Gatsby", "Of Mice and Men", "The Sun Also Rises"],
+        "answer": "The Great Gatsby",
+        "category": "Literature"
+    },
+    {
+        "question": "Who wrote 'The Catcher in the Rye'?",
+        "options": ["J.D. Salinger", "John Steinbeck", "Harper Lee", "William Golding"],
+        "answer": "J.D. Salinger",
+        "category": "Literature"
+    },
+    {
+        "question": "Which author created the character Sherlock Holmes?",
+        "options": ["Agatha Christie", "Arthur Conan Doyle", "Edgar Allan Poe", "Bram Stoker"],
+        "answer": "Arthur Conan Doyle",
+        "category": "Literature"
+    },
+    {
+        "question": "What is the title of Mary Shelley's",
+        "options": ["Fyodor Dostoevsky", "Leo Tolstoy", "Anton Chekhov", "Vladimir Nabokov"],
+        "answer": "Fyodor Dostoevsky",
+        "category": "Literature"
+    },
+    {
+        "question": "Which epic poem is attributed to Homer?",
+        "options": ["The Aeneid", "The Iliad", "Paradise Lost", "The Divine Comedy"],
+        "answer": "The Iliad",
+        "category": "Literature"
+    },
+    {
+        "question": "Who wrote 'Brave New World'?",
+        "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "Philip K. Dick"],
+        "answer": "Aldous Huxley",
+        "category": "Literature"
+    },
+    {
+        "question": "Who wrote 'Les Misérables'?",
+        "options": ["Victor Hugo", "Gustave Flaubert", "Alexandre Dumas", "Emile Zola"],
+        "answer": "Victor Hugo",
+        "category": "Literature"
+    },
+    {
+        "question": "What is the name of the famous novel about a scientist creating life?",
+        "options": ["Dracula", "Frankenstein", "The Invisible Man", "The Strange Case of Dr Jekyll and Mr Hyde"],
+        "answer": "Frankenstein",
+        "category": "Literature"
+    },
+    {
+        "question": "Who wrote 'Crime and Punishment'?",
+        "options": ["Fyodor Dostoevsky", "Leo Tolstoy", "Anton Chekhov", "Nikolai Gogol"],
+        "answer": "Fyodor Dostoevsky",
+        "category": "Literature"
+    },
+    {
+        "question": "Who wrote 'One Hundred Years of Solitude'?",
+        "options": ["Gabriel García Márquez", "Pablo Neruda", "Mario Vargas Llosa", "Jorge Luis Borges"],
+        "answer": "Gabriel García Márquez",
+        "category": "Literature"
+    },
+    {
+        "question": "What is the name of the whale in 'Moby-Dick'?",
+        "options": ["Jaws", "Old Thunder", "Moby-Dick", "White Shadow"],
+        "answer": "Moby-Dick",
+        "category": "Literature"
+    },
+    {
+        "question": "Who wrote 'The Picture of Dorian Gray'?",
+        "options": ["Oscar Wilde", "Charles Dickens", "Edgar Allan Poe", "Thomas Hardy"],
+        "answer": "Oscar Wilde",
+        "category": "Literature"
+    },
+    {
+        "question": "Which novel features the character Elizabeth Bennet?",
+        "options": ["Jane Eyre", "Pride and Prejudice", "Wuthering Heights", "Great Expectations"],
+        "answer": "Pride and Prejudice",
+        "category": "Literature"
+    },
+    {
+        "question": "Who wrote 'The Lord of the Rings'?",
+        "options": ["J.R.R. Tolkien", "C.S. Lewis", "Philip Pullman", "George R.R. Martin"],
+        "answer": "J.R.R. Tolkien",
+        "category": "Literature"
+    },
+     {
+        "question": "What year did World War II end?",
+        "options": ["1943", "1945", "1950", "1939"],
+        "answer": "1945",
+        "category": "History"
+    },
+    {
+        "question": "Who was the first president of the United States?",
+        "options": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "John Adams"],
+        "answer": "George Washington",
+        "category": "History"
+    },
+    {
+        "question": "What was the name of the ship that carried the Pilgrims to America?",
+        "options": ["Santa Maria", "Mayflower", "Endeavour", "Beagle"],
+        "answer": "Mayflower",
+        "category": "History"
+    },
+    {
+        "question": "Which ancient civilization built the pyramids?",
+        "options": ["Greek", "Roman", "Egyptian", "Mayan"],
+        "answer": "Egyptian",
+        "category": "History"
+    },
+    {
+        "question": "In which year did the Titanic sink?",
+        "options": ["1910", "1912", "1920", "1931"],
+        "answer": "1912",
+        "category": "History"
+    },
+    {
+        "question": "Who was known as the 'Iron Lady'?",
+        "options": ["Angela Merkel", "Margaret Thatcher", "Indira Gandhi", "Queen Elizabeth I"],
+        "answer": "Margaret Thatcher",
+        "category": "History"
+    },
+    {
+        "question": "Who wrote the Declaration of Independence?",
+        "options": ["John Adams", "Benjamin Franklin", "Thomas Jefferson", "James Madison"],
+        "answer": "Thomas Jefferson",
+        "category": "History"
+    },
+    {
+        "question": "What year did the Cold War officially end?",
+        "options": ["1989", "1991", "1975", "2000"],
+        "answer": "1991",
+        "category": "History"
+    },
+    {
+        "question": "Which country was the first to land a human on the Moon?",
+        "options": ["Russia", "USA", "China", "Germany"],
+        "answer": "USA",
+        "category": "History"
+    },
+    {
+        "question": "What was the name of the first man-made satellite?",
+        "options": ["Explorer 1", "Sputnik 1", "Voyager 1", "Apollo 11"],
+        "answer": "Sputnik 1",
+        "category": "History"
+    },
+    {
+        "question": "Who was the first emperor of China?",
+        "options": ["Qin Shi Huang", "Liu Bang", "Kublai Khan", "Sun Yat-sen"],
+        "answer": "Qin Shi Huang",
+        "category": "History"
+    },
+    {
+        "question": "Which war was fought between the North and South regions of the United States?",
+        "options": ["Revolutionary War", "War of 1812", "American Civil War", "World War I"],
+        "answer": "American Civil War",
+        "category": "History"
+    },
+    {
+        "question": "Who was the leader of the Soviet Union during World War II?",
+        "options": ["Vladimir Lenin", "Joseph Stalin", "Nikita Khrushchev", "Leon Trotsky"],
+        "answer": "Joseph Stalin",
+        "category": "History"
+    },
+    {
+        "question": "Which document was signed in 1215 limiting the power of the king of England?",
+        "options": ["The Constitution", "The Magna Carta", "The Bill of Rights", "The Treaty of Versailles"],
+        "answer": "The Magna Carta",
+        "category": "History"
+    },
+    {
+        "question": "Who was assassinated in Sarajevo in 1914, sparking World War I?",
+        "options": ["Archduke Franz Ferdinand", "Kaiser Wilhelm II", "Gavrilo Princip", "Woodrow Wilson"],
+        "answer": "Archduke Franz Ferdinand",
+        "category": "History"
+    },
+    {
+        "question": "Which civilization built Machu Picchu?",
+        "options": ["Aztec", "Inca", "Mayan", "Olmec"],
+        "answer": "Inca",
+        "category": "History"
+    },
+    {
+        "question": "Who was the first person to circumnavigate the Earth?",
+        "options": ["Ferdinand Magellan", "Christopher Columbus", "Marco Polo", "Vasco da Gama"],
+        "answer": "Ferdinand Magellan",
+        "category": "History"
+    },
+    {
+        "question": "What was the name of the wall that divided East and West Berlin?",
+        "options": ["Great Wall of China", "Iron Curtain", "Berlin Wall", "Hadrian's Wall"],
+        "answer": "Berlin Wall",
+        "category": "History"
+    },
+    {
+        "question": "Who was the British Prime Minister during most of World War II?",
+        "options": ["Neville Chamberlain", "Winston Churchill", "Clement Attlee", "Margaret Thatcher"],
+        "answer": "Winston Churchill",
+        "category": "History"
+    },
+    {
+        "question": "Which programming language is primarily used for web development?",
+        "options": ["Python", "JavaScript", "C++", "Ruby"],
+        "answer": "JavaScript",
+        "category": "Technology"
+    },
+    {
+        "question": "What year did the first iPhone release?",
+        "options": ["2005", "2007", "2010", "2012"],
+        "answer": "2007",
+        "category": "Technology"
+    },
+    {
+        "question": "What does CPU stand for in computing?",
+        "options": ["Central Processing Unit", "Computer Power Unit", "Central Programming Unit", "Core Processing Utility"],
+        "answer": "Central Processing Unit",
+        "category": "Technology"
+    },
+    {
+        "question": "Who founded Microsoft?",
+        "options": ["Steve Jobs", "Bill Gates", "Elon Musk", "Mark Zuckerberg"],
+        "answer": "Bill Gates",
+        "category": "Technology"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": ["Hyper Transfer Markup Language", "Hypertext Markup Language", "High-Level Text Markup Language", "Hyperlink and Text Management Language"],
+        "answer": "Hypertext Markup Language",
+        "category": "Technology"
+    },
+    {
+        "question": "What was the first video game ever created?",
+        "options": ["Pong", "Space Invaders", "Tennis for Two", "Pac-Man"],
+        "answer": "Tennis for Two",
+        "category": "Technology"
+    },
+    {
+        "question": "Which programming language is primarily used for web development?",
+        "options": ["Python", "JavaScript", "C++", "Ruby"],
+        "answer": "JavaScript",
+        "category": "Technology"
+    },
+    {
+        "question": "What year did the first iPhone release?",
+        "options": ["2005", "2007", "2010", "2012"],
+        "answer": "2007",
+        "category": "Technology"
+    },
+    {
+        "question": "What does CPU stand for in computing?",
+        "options": ["Central Processing Unit", "Computer Power Unit", "Central Programming Unit", "Core Processing Utility"],
+        "answer": "Central Processing Unit",
+        "category": "Technology"
+    },
+    {
+        "question": "Who founded Microsoft?",
+        "options": ["Steve Jobs", "Bill Gates", "Elon Musk", "Mark Zuckerberg"],
+        "answer": "Bill Gates",
+        "category": "Technology"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": ["Hyper Transfer Markup Language", "Hypertext Markup Language", "High-Level Text Markup Language", "Hyperlink and Text Management Language"],
+        "answer": "Hypertext Markup Language",
+        "category": "Technology"
+    },
+    {
+        "question": "What was the first video game ever created?",
+        "options": ["Pong", "Space Invaders", "Tennis for Two", "Pac-Man"],
+        "answer": "Tennis for Two",
+        "category": "Technology"
+    },
+    {
+        "question": "Which company developed the first personal computer?",
+        "options": ["Apple", "IBM", "Microsoft", "Compaq"],
+        "answer": "IBM",
+        "category": "Technology"
+    },
+    {
+        "question": "What does the term 'Cloud Computing' refer to?",
+        "options": ["Using physical servers", "Storing data in the cloud", "Storing data on a hard drive", "Serverless computing"],
+        "answer": "Storing data in the cloud",
+        "category": "Technology"
+    },
+    {
+        "question": "Which operating system does the iPhone use?",
+        "options": ["iOS", "Android", "Windows", "Linux"],
+        "answer": "iOS",
+        "category": "Technology"
+    },
+    {
+        "question": "Who is considered the father of the computer?",
+        "options": ["Charles Babbage", "Alan Turing", "John von Neumann", "Ada Lovelace"],
+        "answer": "Charles Babbage",
+        "category": "Technology"
+    },
+    {
+        "question": "What does VPN stand for?",
+        "options": ["Virtual Private Network", "Visual Private Network", "Virtual Protection Network", "Virtual Program Network"],
+        "answer": "Virtual Private Network",
+        "category": "Technology"
+    },
+    {
+        "question": "Which company created the first successful smartphone?",
+        "options": ["Apple", "Nokia", "BlackBerry", "Motorola"],
+        "answer": "BlackBerry",
+        "category": "Technology"
+    },
+    {
+        "question": "What year was the first version of Windows released?",
+        "options": ["1981", "1985", "1990", "1995"],
+        "answer": "1985",
+        "category": "Technology"
+    },
+    {
+        "question": "Which programming language is known for its use in artificial intelligence?",
+        "options": ["Java", "Python", "C", "Ruby"],
+        "answer": "Python",
+        "category": "Technology"
+    },
+    {
+        "question": "What does SEO stand for?",
+        "options": ["Search Engine Optimization", "Search Engine Operation", "Search Electronic Optimization", "Site Effective Output"],
+        "answer": "Search Engine Optimization",
+        "category": "Technology"
+    },
+    {
+        "question": "Who invented the World Wide Web?",
+        "options": ["Tim Berners-Lee", "Al Gore", "Steve Jobs", "Mark Zuckerberg"],
+        "answer": "Tim Berners-Lee",
+        "category": "Technology"
+    },
+    {
+        "question": "Which social media platform was first released in 2004?",
+        "options": ["Instagram", "Twitter", "Facebook", "Snapchat"],
+        "answer": "Facebook",
+        "category": "Technology"
+    },
+    {
+        "question": "What is the most widely used programming language for Android app development?",
+        "options": ["Java", "Kotlin", "Swift", "C++"],
+        "answer": "Java",
+        "category": "Technology"
+    },
+    {
+        "question": "What was the first search engine on the internet?",
+        "options": ["Google", "Yahoo", "AltaVista", "Bing"],
+        "answer": "AltaVista",
+        "category": "Technology"
+    },
+    {
+        "question": "Which company is known for creating the first mouse?",
+        "options": ["Apple", "Microsoft", "Xerox", "IBM"],
+        "answer": "Xerox",
+        "category": "Technology"
+    }
+]
